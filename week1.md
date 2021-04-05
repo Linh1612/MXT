@@ -1,55 +1,55 @@
-#baocaonhom
+#Baocaonhom
 
 
 1.Done
--hoan thanh Git setup cho du an
--lua tron ngon ngu va framework
--quyet dinh MVP
+- Hoan thanh Git setup cho du an
+- Lua tron ngon ngu va framework
+- Quyet dinh MVP
 -
 
 2. Issues
--vuong mac trong cai dat moi truong lap trinh
+- Vuong mac trong cai dat moi truong lap trinh
 ....
 
-3. plan for nextweek 
-- hoan thanh cai dat moi truong
-- hoan thanh MVP Use Cases
+3. Plan for next week 
+- Hoan thanh cai dat moi truong
+- Hoan thanh MVP Use Cases
 
 
-#dong gop tung thanh vien
+#Dong gop tung thanh vien
 
 ##Phan Viet Linh
 1.Done
-khong co gi
+Co
 
 2.Issues
 
-3.plan for nextweek
+3.Plan for next week
 
 
 ##Pham Ngoc Viet
 1.Done
-co
+Co
 
 2.Issues
 
-3.plan for nextweek
+3.Plan for next week
 
 ##Nguyen Trung Kien
 1.Done
-co
+Co
 
 2.Issues
 
-3.plan for nextweek
+3.Plan for next week
 
 ##Nguyen Van Quynh
 1.Done
-co
+Co
 
 2.Issues
 
-3.plan for nextweek
+3.Plan for next week
 
 
 
