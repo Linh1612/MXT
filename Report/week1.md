@@ -19,8 +19,9 @@
 #Dong gop tung thanh vien
 
 ##Phan Viet Linh
+
 1.Done
-Co
+- Co
 
 2.Issues
 
@@ -28,24 +29,27 @@ Co
 
 
 ##Pham Ngoc Viet
+
 1.Done
-Co
+- Co
 
 2.Issues
 
 3.Plan for next week
 
 ##Nguyen Trung Kien
+
 1.Done
-Co
+- Co
 
 2.Issues
 
 3.Plan for next week
 
 ##Nguyen Van Quynh
+
 1.Done
-Co
+- Co
 
 2.Issues
 
