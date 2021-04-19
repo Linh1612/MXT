@@ -39,6 +39,10 @@
 - Hoan thanh github
 - Ngon ngu: java va framework: Android
 - MVP: Tim duoc thong tin nha tro
+- Lam xml man hinh chinh
+- Lam xml menu
+- Lam menu 
+- Lam localhost
 
 2.Issues
 - Dang debug cac loi trong code
