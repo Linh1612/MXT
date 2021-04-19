@@ -1,4 +1,4 @@
-#Baocaonhom
+# Baocaonhom
 
 
 1.Done
@@ -16,9 +16,9 @@
 - Hoan thanh MVP Use Cases
 
 
-#Dong gop tung thanh vien
+# Dong gop tung thanh vien
 
-##Phan Viet Linh
+## Phan Viet Linh
 
 1.Done
 - Hoan thanh github
@@ -33,7 +33,7 @@
 - Hoc va tiep tuc lam tiep
 
 
-##Pham Ngoc Viet
+## Pham Ngoc Viet
 
 1.Done
 - Hoan thanh github
@@ -46,7 +46,8 @@
 3.Plan for next week
 - Debug xong loi
 - Tiep tuc cac phan code tiep theo
-##Nguyen Trung Kien
+
+## Nguyen Trung Kien
 
 1.Done
 - Co
@@ -55,7 +56,7 @@
 
 3.Plan for next week
 
-##Nguyen Van Quynh
+## Nguyen Van Quynh
 
 1.Done
 - Co
