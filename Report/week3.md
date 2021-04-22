@@ -63,9 +63,10 @@
 ## Nguyen Van Quynh
 
 1.Done
-- Co
-
+- Da thiet ke xong logo phan mem
+- Dang thiet ke cac icon  
 2.Issues
-
+- Khong co
 3.Plan for next week
+- Co gang hoan thien 
 
