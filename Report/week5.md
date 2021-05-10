@@ -35,3 +35,19 @@
 3. Plan for next week
 - Da hoan thanh xong app
 - Co the cai tien them app
+
+## Pham Ngoc Viet
+1. Done 
+- Hoan thanh github
+- Tao server
+- Connect server
+- Tao, them data base 
+- Chinh sua code de connect voi server
+
+2. Issues
+
+- Code loi XML
+
+3. Plan for next week
+- Fix loi XML giao dien
+- Hoan thanh cai thien app
