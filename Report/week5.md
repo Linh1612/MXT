@@ -51,3 +51,12 @@
 3. Plan for next week
 - Fix loi XML giao dien
 - Hoan thanh cai thien app
+## Nguyen Trung Kien
+1.Done
+- Thu thap thong tin khach san, homestay
+- Tham gia hoan thanh co so du lieu cho app
+- Tham gia test app tren mobile
+2. Issues
+- Khong co van de gi
+3. Plan for next week
+- Da hoan thanh xong app
